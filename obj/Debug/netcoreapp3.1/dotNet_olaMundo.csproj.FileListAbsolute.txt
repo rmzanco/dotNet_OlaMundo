@@ -1,0 +1,11 @@
+C:\Users\rodri\Repositorios\dotNet_olaMundo\bin\Debug\netcoreapp3.1\dotNet_olaMundo.exe
+C:\Users\rodri\Repositorios\dotNet_olaMundo\bin\Debug\netcoreapp3.1\dotNet_olaMundo.deps.json
+C:\Users\rodri\Repositorios\dotNet_olaMundo\bin\Debug\netcoreapp3.1\dotNet_olaMundo.runtimeconfig.json
+C:\Users\rodri\Repositorios\dotNet_olaMundo\bin\Debug\netcoreapp3.1\dotNet_olaMundo.runtimeconfig.dev.json
+C:\Users\rodri\Repositorios\dotNet_olaMundo\bin\Debug\netcoreapp3.1\dotNet_olaMundo.dll
+C:\Users\rodri\Repositorios\dotNet_olaMundo\bin\Debug\netcoreapp3.1\dotNet_olaMundo.pdb
+C:\Users\rodri\Repositorios\dotNet_olaMundo\obj\Debug\netcoreapp3.1\dotNet_olaMundo.csprojAssemblyReference.cache
+C:\Users\rodri\Repositorios\dotNet_olaMundo\obj\Debug\netcoreapp3.1\dotNet_olaMundo.AssemblyInfoInputs.cache
+C:\Users\rodri\Repositorios\dotNet_olaMundo\obj\Debug\netcoreapp3.1\dotNet_olaMundo.AssemblyInfo.cs
+C:\Users\rodri\Repositorios\dotNet_olaMundo\obj\Debug\netcoreapp3.1\dotNet_olaMundo.dll
+C:\Users\rodri\Repositorios\dotNet_olaMundo\obj\Debug\netcoreapp3.1\dotNet_olaMundo.pdb
