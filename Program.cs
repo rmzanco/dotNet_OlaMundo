@@ -6,8 +6,10 @@ namespace dotNet_olaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("The Current Time is: " + DateTime.Now);
+            int a = 18;
+            int b = 6;
+            int c = a / b;
+            Console.WriteLine(c);
         }
     }
 }
